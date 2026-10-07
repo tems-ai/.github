@@ -16,7 +16,6 @@ onboarding to expert performance.
   the point of work.
 - **AI Agents** — custom agents that turn operational knowledge into action across
   training, quality, safety and maintenance.
-- **TemsAI XR** — contextual guidance, video and AI support in extended reality.
 
 ### Where it's used
 
