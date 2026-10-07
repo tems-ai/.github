@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tems-ai/.github/main/profile/header.png" alt="Frontline worker using TemsAI digital work instructions on a rugged tablet" width="600">
-</p>
-
 # TemsAI
 
 **AI-native Connected Worker platform for frontline manufacturing operations.**
@@ -9,6 +5,10 @@
 TemsAI captures operational knowledge from scattered sources, turns it into digital work
 instructions, and guides, trains and supports every worker on the shop floor — from
 onboarding to expert performance.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tems-ai/.github/main/profile/header.webp" alt="Frontline worker using TemsAI digital work instructions on a rugged tablet" width="100%">
+</p>
 
 ### What we build
 
