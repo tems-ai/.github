@@ -23,6 +23,12 @@ onboarding to expert performance.
 Quality · Maintenance (autonomous and preventive) · Safety · Skill management and
 workforce development · OEM technical documentation
 
+### Mobile app
+
+Guidance, instructions and checklists on the shop floor, on iOS and Android:
+[App Store](https://apps.apple.com/app/id6743125721) ·
+[Google Play](https://play.google.com/store/apps/details?id=ai.tems.approd)
+
 ### Get in touch
 
 [Website](https://www.tems.ai) ·
