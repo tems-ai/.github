@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tems-ai/.github/main/profile/header.png" alt="Frontline worker using TemsAI digital work instructions on a rugged tablet" width="600">
+</p>
+
 # TemsAI
 
 **AI-native Connected Worker platform for frontline manufacturing operations.**
